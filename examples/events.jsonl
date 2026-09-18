@@ -1,0 +1,2 @@
+{"tenant":"acme","source":"crm","schema_ok":true,"quality_ok":true,"lineage_ok":true,"pii_scoped":true,"record_count":120}
+{"tenant":"globex","source":"erp","schema_ok":false,"quality_ok":true,"lineage_ok":true,"pii_scoped":true,"record_count":8}
